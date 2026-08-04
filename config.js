@@ -6,7 +6,7 @@
  * NUNCA pegues aquí la contraseña de tu cuenta ni la service_role key.
  */
 window.APP_CONFIG = {
-  SUPABASE_URL: "https://ykoufrwsozcihkufckcf.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_79sZ2mtUu2FtWDgDwzcZ-g_k3nohB1z",
+  SUPABASE_URL: "https://mnnkrvqgjxgbwvpbhjtg.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_53czxWVrKqSVvpCChoK5Yw_nllsrcKy",
 
 };
