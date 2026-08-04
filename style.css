@@ -429,3 +429,4 @@
 .login-error { margin: 0; padding: 11px 13px; border-radius: 10px; color: var(--rojo); background: var(--rojo-claro); }
 .login-note { margin: 0; color: var(--gris-texto); font-size: 12px; line-height: 1.55; }
 @media (max-width: 760px) { .login-shell { grid-template-columns: 1fr; } .login-brand-panel { padding: 34px; min-height: 260px; } .login-card { padding: 34px; } }
+.permission-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:12px 0}.permission-grid label,.check-line{display:flex;align-items:center;gap:9px;padding:10px;border:1px solid var(--gris-borde);border-radius:10px}.permission-grid input,.check-line input{width:auto}.check-line{margin-top:14px}@media(max-width:700px){.permission-grid{grid-template-columns:1fr}}
